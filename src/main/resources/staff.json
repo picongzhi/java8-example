@@ -1,0 +1,19 @@
+{
+  "name": "picongzhi",
+  "age": 27,
+  "position": [
+    "Developer",
+    "CTO"
+  ],
+  "skills": [
+    "java",
+    "python",
+    "node",
+    "go"
+  ],
+  "salary": {
+    "2015": 20000,
+    "2010": 10000,
+    "2020": 30000
+  }
+}
